@@ -1,0 +1,13 @@
+Installations
+===========================
+========
+==== 
+sudo apt-get install samba
+sudo apt-get install glade
+
+
+Run
+===========================
+========
+==== 
+python run.py
