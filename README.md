@@ -10,6 +10,6 @@ sudo apt-get install glade
 python run.py
 
 ### Images ###
-![Picture1.png](https://bitbucket.org/repo/a4BaXd/images/3642891957-Picture1.png)
-![edit_shares_settings.png](https://bitbucket.org/repo/a4BaXd/images/2313344685-edit_shares_settings.png)
-![configuration.png](https://bitbucket.org/repo/a4BaXd/images/46411272-configuration.png)
+![Picture1.png](preview/preview1.png)
+![edit_shares_settings.png](preview/preview2.png)
+![configuration.png](preview/preview3.png)
